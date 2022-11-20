@@ -1,0 +1,17 @@
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Services.deps.json
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Services.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Services.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.AssemblyReference.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfoInputs.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfo.cs
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.CopyComplete
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\refint\MyProject.Services.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\MyProject.Services.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Services\obj\Debug\net6.0\ref\MyProject.Services.dll

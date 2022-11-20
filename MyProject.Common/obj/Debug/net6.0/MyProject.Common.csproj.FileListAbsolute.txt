@@ -1,0 +1,12 @@
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\אדרי תהילה\תהילה אדרי\דוטנט\MyProject_hw\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
